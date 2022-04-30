@@ -19,5 +19,5 @@ hello git! hello ming!
 hello git! hello ming!
 hello git! hello ming!
 12344566
-12344566
+12344566 hot-fix test2
 12344566 hot-fix test
